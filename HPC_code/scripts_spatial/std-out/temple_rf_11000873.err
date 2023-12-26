@@ -1,0 +1,16 @@
+Traceback (most recent call last):
+  File "/project/akron/Temple/scripts_spatial/rf_models.py", line 62, in <module>
+    grid_search.fit(X_train, y_train)
+  File "/home/bo.stevens/.conda/envs/rf_env/lib/python3.11/site-packages/sklearn/base.py", line 1151, in wrapper
+    return fit_method(estimator, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/bo.stevens/.conda/envs/rf_env/lib/python3.11/site-packages/sklearn/model_selection/_search.py", line 898, in fit
+    self._run_search(evaluate_candidates)
+  File "/home/bo.stevens/.conda/envs/rf_env/lib/python3.11/site-packages/sklearn/model_selection/_search.py", line 1419, in _run_search
+    evaluate_candidates(ParameterGrid(self.param_grid))
+  File "/home/bo.stevens/.conda/envs/rf_env/lib/python3.11/site-packages/sklearn/model_selection/_search.py", line 857, in evaluate_candidates
+    for (cand_idx, parameters), (split_idx, (train, test)) in product(
+                                                              ^^^^^^^^
+  File "/home/bo.stevens/.conda/envs/rf_env/lib/python3.11/site-packages/sklearn/model_selection/_split.py", line 370, in split
+    raise ValueError(
+ValueError: Cannot have number of splits n_splits=5 greater than the number of samples: n_samples=3.

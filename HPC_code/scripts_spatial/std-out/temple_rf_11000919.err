@@ -1,0 +1,13 @@
+Traceback (most recent call last):
+  File "/project/akron/Temple/scripts_spatial/rf_models.py", line 57, in <module>
+    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
+                                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/bo.stevens/.conda/envs/rf_env/lib/python3.11/site-packages/sklearn/utils/_param_validation.py", line 211, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/bo.stevens/.conda/envs/rf_env/lib/python3.11/site-packages/sklearn/model_selection/_split.py", line 2617, in train_test_split
+    n_train, n_test = _validate_shuffle_split(
+                      ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/bo.stevens/.conda/envs/rf_env/lib/python3.11/site-packages/sklearn/model_selection/_split.py", line 2273, in _validate_shuffle_split
+    raise ValueError(
+ValueError: With n_samples=0, test_size=0.2 and train_size=None, the resulting train set will be empty. Adjust any of the aforementioned parameters.
