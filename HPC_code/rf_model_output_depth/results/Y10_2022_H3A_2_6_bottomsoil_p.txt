@@ -1,0 +1,1 @@
+{"model_name": "../rf_model_output_depth/models/Y10_2022_H3A_2_6_bottomsoil_p.joblib", "num_input_params": 2, "r2": 0.33635405957200026, "mse": 249.9879621733051, "features_importances": {"H3A_P_2_6": 0.9448349742092649, "PhosphorusTreatment": 0.05516502579073515}}

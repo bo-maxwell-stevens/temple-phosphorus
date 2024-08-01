@@ -1,0 +1,1 @@
+{"model_name": "../rf_model_output_depth/models/SW16_2018_Ols_2_6_topsoil_np.joblib", "num_input_params": 1, "r2": -0.06176981830845829, "mse": 25.10623840455469, "features_importances": {"Ols_P_2_6": 1.0}}

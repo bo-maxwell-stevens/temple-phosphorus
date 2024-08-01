@@ -1,0 +1,1 @@
+{"model_name": "../rf_model_output_depth/models/SW16_2022_M3_0_2_topsoil_np.joblib", "num_input_params": 1, "r2": -0.004163177641139049, "mse": 223.45077580331005, "features_importances": {"M3_P_0_2": 1.0}}

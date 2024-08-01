@@ -1,0 +1,1 @@
+{"model_name": "../rf_model_output_depth/models/Y8_2020_Ols_2_6_bottomsoil_np.joblib", "num_input_params": 1, "r2": 0.2912683482369759, "mse": 1653.4963405284716, "features_importances": {"Ols_P_2_6": 1.0}}

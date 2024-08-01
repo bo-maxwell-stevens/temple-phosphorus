@@ -1,0 +1,1 @@
+{"model_name": "../rf_model_output_depth/models/6-12_2019_M3_2_6_topsoil_p.joblib", "num_input_params": 2, "r2": -0.012690387453506702, "mse": 256.73019897754654, "features_importances": {"M3_P_2_6": 0.888944316975672, "PhosphorusTreatment": 0.111055683024328}}

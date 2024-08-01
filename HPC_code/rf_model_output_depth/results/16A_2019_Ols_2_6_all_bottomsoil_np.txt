@@ -1,0 +1,1 @@
+{"model_name": "../rf_model_output_depth/models/16A_2019_Ols_2_6_all_bottomsoil_np.joblib", "num_input_params": 6, "r2": 0.5185020837314402, "mse": 224.59549495618722, "features_importances": {"Ols_Al_2_6": 0.17170681825093534, "Ols_Ca_2_6": 0.17581950520881584, "Ols_Fe_2_6": 0.18920816641582472, "Ols_K_2_6": 0.2188647935428271, "Ols_Mg_2_6": 0.244400716581597, "Ols_P_2_6": 0.0}}

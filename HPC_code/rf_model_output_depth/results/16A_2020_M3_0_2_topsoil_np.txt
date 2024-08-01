@@ -1,0 +1,1 @@
+{"model_name": "../rf_model_output_depth/models/16A_2020_M3_0_2_topsoil_np.joblib", "num_input_params": 1, "r2": -1.468753850586424e-05, "mse": 423.84566334932896, "features_importances": {"M3_P_0_2": 1.0}}

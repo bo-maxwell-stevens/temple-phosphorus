@@ -1,0 +1,1 @@
+{"model_name": "../rf_model_output_depth/models/16A_2022_Ols_2_6_bottomsoil_p.joblib", "num_input_params": 2, "r2": 0.050199892427129966, "mse": 154.87870369493805, "features_importances": {"Ols_P_2_6": 0.9029997446396174, "PhosphorusTreatment": 0.0970002553603826}}
